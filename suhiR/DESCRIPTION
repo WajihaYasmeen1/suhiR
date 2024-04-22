@@ -1,0 +1,10 @@
+Package: suhiR
+Type: Package
+Title: suhiR 
+Version: 0.1.0
+Author: Wajiha Yasmeen
+Maintainer: Wajiha Yasmeen <wajiha.yasmeen@stud-mail.uni-wuerzburg.de> 
+Description: suhiR package let's you estimate surface urban heat island effect using Landsat-8 data
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
